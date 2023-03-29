@@ -18,8 +18,7 @@ h1 {
 
 .image {
   display: inline-block;
-  height: 100px;
-  width: 100px;
+  width: 100%;
   background-image: url('~assets/example.png');
-  background-size: cover;
+  background-size: cover;  
 }
